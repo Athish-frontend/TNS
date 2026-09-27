@@ -1,0 +1,40 @@
+fastapi
+uvicorn
+streamlit
+scikit-learn
+pandas
+numpy
+requests
+joblib
+pydantic
+
+# ------------------------------------------------------------------
+# DEPENDENCY MANIFEST: requirements.txt
+# ------------------------------------------------------------------
+
+# Modern, high-performance web framework for building RESTful backend APIs in Python
+fastapi
+
+# Lightning-fast ASGI web server implementation used to run and serve the FastAPI application
+uvicorn
+
+# Interactive web framework for creating data science and machine learning web frontends in pure Python
+streamlit
+
+# Core machine learning library providing algorithms (e.g., DecisionTreeRegressor) and preprocessing tools
+scikit-learn
+
+# Data analysis and manipulation library used for handling tabular data (DataFrames and CSVs)
+pandas
+
+# Fundamental package for scientific computing, matrix operations, and synthetic data generation
+numpy
+
+# HTTP client library used by the Streamlit frontend to send requests to the FastAPI backend
+requests
+
+# Lightweight object serialization utility used to save (.pkl) and load trained models and transformers
+joblib
+
+# Data validation and settings management library used by FastAPI to enforce strict request schemas
+pydantic
